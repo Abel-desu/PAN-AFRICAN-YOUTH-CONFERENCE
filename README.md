@@ -10,7 +10,7 @@ this is sample webpage for Pan-African youth conference
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link]( https://abel-desu.github.io/Capstone-Project/)
 
 
 👤 **Author**
