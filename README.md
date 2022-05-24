@@ -8,9 +8,9 @@ this is sample webpage for Pan-African youth conference
 
 - Major languages - html, css, javascript
 
-## Live Demo (if available)
+## Live Demo 
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link]( https://abel-desu.github.io/Capstone-Project/)
 
 
 👤 **Author**
