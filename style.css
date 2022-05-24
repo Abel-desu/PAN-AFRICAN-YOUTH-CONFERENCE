@@ -96,7 +96,9 @@ header {
 #logo {
   display: none;
 }
-
+.logo-image{
+    border: 1px solid var(--neutral);
+}
 header nav {
   display: flex;
   flex-direction: column;
@@ -281,7 +283,10 @@ section {
   color: var(--primary);
   text-align: center;
 }
-
+.section-heading-p{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
 .section-heading::after {
   border-bottom: 2px solid var(--secondary);
   position: absolute;
@@ -357,7 +362,6 @@ section {
   font-weight: 600;
   align-self: center;
   cursor: pointer;
-  background-color: var(--secondary);
 }
 
 /* speakers - section */
@@ -621,7 +625,7 @@ footer .branding {
     width: 100%;
     max-width: 100%;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     align-items: center;
     margin: auto;
   }
