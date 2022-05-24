@@ -96,9 +96,11 @@ header {
 #logo {
   display: none;
 }
-.logo-image{
-    border: 1px solid var(--neutral);
+
+.logo-image {
+  border: 1px solid var(--neutral);
 }
+
 header nav {
   display: flex;
   flex-direction: column;
@@ -283,10 +285,12 @@ section {
   color: var(--primary);
   text-align: center;
 }
-.section-heading-p{
-    padding-top: 30px;
-    padding-bottom: 30px;
+
+.section-heading-p {
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
+
 .section-heading::after {
   border-bottom: 2px solid var(--secondary);
   position: absolute;
@@ -351,9 +355,11 @@ section {
   flex-basis: 55%;
   font-weight: 400;
 }
+
 #program .item:hover {
-    border: 2px solid #fff;
-  }
+  border: 2px solid #fff;
+}
+
 #program .cta {
   display: flex;
   justify-content: center;
